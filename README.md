@@ -66,13 +66,13 @@ Creating a single-page Leaflet map proved efficient, but balancing performance w
 
 > **Key take-away:** A lean feature set that meets a real user need is often better than feature creep.
 
-## 10  Live Demo
-
-[https://your-username.github.io/dog-parks-salzburg](https://your-username.github.io/dog-parks-salzburg)
-
-## 11  Screenshot
+## 10  Screenshot
 
 ![Screenshot of interactive map](docs/screenshot.png)
+
+## 11  Live Demo
+
+[https://christina-kollnig.github.io/salzburg-dog-map/](https://christina-kollnig.github.io/salzburg-dog-map/)
 
 ## 12  Attribution
 
