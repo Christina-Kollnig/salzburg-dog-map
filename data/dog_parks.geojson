@@ -1,0 +1,3188 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-06-22T12:57:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30512249",
+        "animal": "school",
+        "leisure": "dog_park",
+        "name": "Hundeabrichteplatz",
+        "school_type": "dog",
+        "source": "plan.at 2009",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.9954185,
+              47.8032808
+            ],
+            [
+              12.9942962,
+              47.8035168
+            ],
+            [
+              12.9950003,
+              47.8023955
+            ],
+            [
+              12.9955658,
+              47.8031207
+            ],
+            [
+              12.9954185,
+              47.8032808
+            ]
+          ]
+        ]
+      },
+      "id": "way/30512249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407748948",
+        "contact:website": "https://www.ahv-hundeschule.at/",
+        "leisure": "dog_park",
+        "name": "Allgemeiner Hundeverein Hohenwerfen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1790995,
+              47.4923556
+            ],
+            [
+              13.1790876,
+              47.4926108
+            ],
+            [
+              13.1790067,
+              47.4926161
+            ],
+            [
+              13.179034,
+              47.4929212
+            ],
+            [
+              13.178975,
+              47.4929557
+            ],
+            [
+              13.1789455,
+              47.4929956
+            ],
+            [
+              13.1789428,
+              47.4930644
+            ],
+            [
+              13.1790367,
+              47.4933707
+            ],
+            [
+              13.1790447,
+              47.4934233
+            ],
+            [
+              13.1790259,
+              47.4934486
+            ],
+            [
+              13.1789589,
+              47.4934649
+            ],
+            [
+              13.1787363,
+              47.4928941
+            ],
+            [
+              13.1786981,
+              47.4926362
+            ],
+            [
+              13.1786764,
+              47.4924558
+            ],
+            [
+              13.1786961,
+              47.4922755
+            ],
+            [
+              13.178703,
+              47.492205
+            ],
+            [
+              13.1789177,
+              47.4921953
+            ],
+            [
+              13.1790797,
+              47.4922354
+            ],
+            [
+              13.1790995,
+              47.4923556
+            ]
+          ]
+        ]
+      },
+      "id": "way/407748948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/619468929",
+        "leisure": "dog_park",
+        "name": "Hundeabrichtplatz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2143504,
+              47.4423554
+            ],
+            [
+              13.2143566,
+              47.4424202
+            ],
+            [
+              13.2143461,
+              47.4425092
+            ],
+            [
+              13.2143258,
+              47.4425984
+            ],
+            [
+              13.2139634,
+              47.4430112
+            ],
+            [
+              13.2138008,
+              47.4433246
+            ],
+            [
+              13.2138057,
+              47.4435886
+            ],
+            [
+              13.2135792,
+              47.4435969
+            ],
+            [
+              13.2136198,
+              47.4428641
+            ],
+            [
+              13.2136056,
+              47.4424228
+            ],
+            [
+              13.2143504,
+              47.4423554
+            ]
+          ]
+        ]
+      },
+      "id": "way/619468929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/461162192",
+        "leisure": "dog_park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0818071,
+              47.6965906
+            ],
+            [
+              13.0818844,
+              47.6965468
+            ],
+            [
+              13.0819444,
+              47.6965012
+            ],
+            [
+              13.0823955,
+              47.6966589
+            ],
+            [
+              13.0820181,
+              47.6970005
+            ],
+            [
+              13.081598,
+              47.696869
+            ],
+            [
+              13.0818071,
+              47.6965906
+            ]
+          ]
+        ]
+      },
+      "id": "way/461162192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718117570",
+        "leisure": "dog_park",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1062506,
+              47.6993566
+            ],
+            [
+              13.1061043,
+              47.6993756
+            ],
+            [
+              13.1060297,
+              47.6994717
+            ],
+            [
+              13.1059833,
+              47.6995401
+            ],
+            [
+              13.1059345,
+              47.6995068
+            ],
+            [
+              13.1058568,
+              47.6994653
+            ],
+            [
+              13.1057307,
+              47.6994211
+            ],
+            [
+              13.1056449,
+              47.6993669
+            ],
+            [
+              13.105606,
+              47.6993227
+            ],
+            [
+              13.105555,
+              47.6992406
+            ],
+            [
+              13.1055027,
+              47.6991855
+            ],
+            [
+              13.1054263,
+              47.6991467
+            ],
+            [
+              13.1053324,
+              47.6991277
+            ],
+            [
+              13.1052329,
+              47.6991355
+            ],
+            [
+              13.1051471,
+              47.6991527
+            ],
+            [
+              13.1051216,
+              47.699149
+            ],
+            [
+              13.1051565,
+              47.6990489
+            ],
+            [
+              13.1051994,
+              47.698964
+            ],
+            [
+              13.1053494,
+              47.6989811
+            ],
+            [
+              13.1054728,
+              47.6989306
+            ],
+            [
+              13.1055479,
+              47.6989107
+            ],
+            [
+              13.1056337,
+              47.69888
+            ],
+            [
+              13.1057147,
+              47.6989017
+            ],
+            [
+              13.1058992,
+              47.6990768
+            ],
+            [
+              13.1059395,
+              47.6990714
+            ],
+            [
+              13.1060065,
+              47.6991364
+            ],
+            [
+              13.106146,
+              47.6992663
+            ],
+            [
+              13.1062506,
+              47.6993566
+            ]
+          ]
+        ]
+      },
+      "id": "way/718117570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/985961177",
+        "barrier": "fence",
+        "leisure": "dog_park",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0846335,
+              47.7111874
+            ],
+            [
+              13.0843707,
+              47.7111549
+            ],
+            [
+              13.0838531,
+              47.7112014
+            ],
+            [
+              13.0837914,
+              47.7106617
+            ],
+            [
+              13.0839243,
+              47.7106274
+            ],
+            [
+              13.0846184,
+              47.7111159
+            ],
+            [
+              13.084621,
+              47.7111321
+            ],
+            [
+              13.0846297,
+              47.7111458
+            ],
+            [
+              13.0846335,
+              47.7111874
+            ]
+          ]
+        ]
+      },
+      "id": "way/985961177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164700330",
+        "landuse": "grass",
+        "layer": "2",
+        "leisure": "dog_park",
+        "name": "Hundeabrichteplatz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0958532,
+              47.7107073
+            ],
+            [
+              13.0960919,
+              47.710276
+            ],
+            [
+              13.0961044,
+              47.7102448
+            ],
+            [
+              13.0961026,
+              47.710211
+            ],
+            [
+              13.0962653,
+              47.710207
+            ],
+            [
+              13.0963011,
+              47.7101605
+            ],
+            [
+              13.0969305,
+              47.7102846
+            ],
+            [
+              13.097002,
+              47.7104439
+            ],
+            [
+              13.0970175,
+              47.7104816
+            ],
+            [
+              13.0969746,
+              47.7105556
+            ],
+            [
+              13.0968914,
+              47.7105971
+            ],
+            [
+              13.0958532,
+              47.7107073
+            ]
+          ]
+        ]
+      },
+      "id": "way/164700330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252356702",
+        "barrier": "fence",
+        "dog": "designated",
+        "fence_type": "chain_link",
+        "height": "1.5",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0680715,
+              47.7626516
+            ],
+            [
+              13.0671908,
+              47.763086
+            ],
+            [
+              13.0670802,
+              47.7627968
+            ],
+            [
+              13.0672926,
+              47.7626943
+            ],
+            [
+              13.0675885,
+              47.7625515
+            ],
+            [
+              13.0676601,
+              47.7626142
+            ],
+            [
+              13.0677433,
+              47.7625713
+            ],
+            [
+              13.0678671,
+              47.7625075
+            ],
+            [
+              13.0680715,
+              47.7626516
+            ]
+          ]
+        ]
+      },
+      "id": "way/252356702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104977537",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0203497,
+              47.8030375
+            ],
+            [
+              13.0203491,
+              47.8029794
+            ],
+            [
+              13.0203505,
+              47.8026645
+            ],
+            [
+              13.0204316,
+              47.8026438
+            ],
+            [
+              13.0207777,
+              47.8025556
+            ],
+            [
+              13.0208796,
+              47.8027666
+            ],
+            [
+              13.0208166,
+              47.8029648
+            ],
+            [
+              13.0207789,
+              47.8030238
+            ],
+            [
+              13.0203497,
+              47.8030375
+            ]
+          ]
+        ]
+      },
+      "id": "way/104977537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088614",
+        "area": "yes",
+        "barrier": "fence",
+        "dog": "designated",
+        "fence_type": "wire",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0444805,
+              47.7881433
+            ],
+            [
+              13.044714,
+              47.7881738
+            ],
+            [
+              13.0449154,
+              47.7882
+            ],
+            [
+              13.0449187,
+              47.7885583
+            ],
+            [
+              13.0450672,
+              47.788565
+            ],
+            [
+              13.0451688,
+              47.788841
+            ],
+            [
+              13.0448708,
+              47.7889902
+            ],
+            [
+              13.0447381,
+              47.7890566
+            ],
+            [
+              13.0446519,
+              47.7886607
+            ],
+            [
+              13.0446161,
+              47.7884183
+            ],
+            [
+              13.0445419,
+              47.7882585
+            ],
+            [
+              13.0444805,
+              47.7881433
+            ]
+          ]
+        ]
+      },
+      "id": "way/263088614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547140847",
+        "barrier": "fence",
+        "leisure": "dog_park",
+        "lit": "no",
+        "source": "Geoimage Orthophoto Metadaten Stand 2019",
+        "surface": "grass",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0310908,
+              47.8098338
+            ],
+            [
+              13.0310471,
+              47.8098352
+            ],
+            [
+              13.0310767,
+              47.8097194
+            ],
+            [
+              13.0311984,
+              47.8097301
+            ],
+            [
+              13.0311915,
+              47.8097894
+            ],
+            [
+              13.0310908,
+              47.8098338
+            ]
+          ]
+        ]
+      },
+      "id": "way/547140847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159975241",
+        "dog": "designated",
+        "leisure": "dog_park",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0426516,
+              47.8222392
+            ],
+            [
+              13.0432499,
+              47.8221985
+            ],
+            [
+              13.0433679,
+              47.8221992
+            ],
+            [
+              13.0432175,
+              47.8224314
+            ],
+            [
+              13.0428864,
+              47.8223699
+            ],
+            [
+              13.0426563,
+              47.822315
+            ],
+            [
+              13.0426516,
+              47.8222392
+            ]
+          ]
+        ]
+      },
+      "id": "way/159975241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088615",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0620493,
+              47.7970907
+            ],
+            [
+              13.0619096,
+              47.7966769
+            ],
+            [
+              13.0619879,
+              47.7966584
+            ],
+            [
+              13.0617772,
+              47.796285
+            ],
+            [
+              13.0617647,
+              47.7962636
+            ],
+            [
+              13.0619741,
+              47.7961815
+            ],
+            [
+              13.062005,
+              47.796174
+            ],
+            [
+              13.0620244,
+              47.7961775
+            ],
+            [
+              13.0620486,
+              47.7961854
+            ],
+            [
+              13.0621311,
+              47.7963038
+            ],
+            [
+              13.0621329,
+              47.7963344
+            ],
+            [
+              13.0621364,
+              47.7963924
+            ],
+            [
+              13.0622995,
+              47.796653
+            ],
+            [
+              13.0623121,
+              47.796691
+            ],
+            [
+              13.0623113,
+              47.7967288
+            ],
+            [
+              13.0622513,
+              47.797053
+            ],
+            [
+              13.0620493,
+              47.7970907
+            ]
+          ]
+        ]
+      },
+      "id": "way/263088615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088616",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Gut Aiderbichl"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0915809,
+              47.7854781
+            ],
+            [
+              13.0914241,
+              47.7855332
+            ],
+            [
+              13.091192,
+              47.7856451
+            ],
+            [
+              13.0912172,
+              47.7857046
+            ],
+            [
+              13.0911332,
+              47.7857671
+            ],
+            [
+              13.091037,
+              47.7857618
+            ],
+            [
+              13.0909728,
+              47.7857213
+            ],
+            [
+              13.0908642,
+              47.785714
+            ],
+            [
+              13.0907554,
+              47.7856985
+            ],
+            [
+              13.0906688,
+              47.7856794
+            ],
+            [
+              13.0905395,
+              47.7856575
+            ],
+            [
+              13.0900537,
+              47.7856084
+            ],
+            [
+              13.0898862,
+              47.7856224
+            ],
+            [
+              13.0896541,
+              47.7856635
+            ],
+            [
+              13.0896447,
+              47.785513
+            ],
+            [
+              13.0897479,
+              47.7850822
+            ],
+            [
+              13.0897591,
+              47.7850384
+            ],
+            [
+              13.0901062,
+              47.7849004
+            ],
+            [
+              13.0903444,
+              47.7848215
+            ],
+            [
+              13.090524,
+              47.7847959
+            ],
+            [
+              13.0908607,
+              47.7847969
+            ],
+            [
+              13.0908445,
+              47.7848707
+            ],
+            [
+              13.0908974,
+              47.7849286
+            ],
+            [
+              13.0909738,
+              47.784947
+            ],
+            [
+              13.0911266,
+              47.7849207
+            ],
+            [
+              13.0912564,
+              47.7850134
+            ],
+            [
+              13.0915366,
+              47.7851613
+            ],
+            [
+              13.0917819,
+              47.7852233
+            ],
+            [
+              13.0918077,
+              47.7853212
+            ],
+            [
+              13.0917473,
+              47.7854024
+            ],
+            [
+              13.0915809,
+              47.7854781
+            ]
+          ]
+        ]
+      },
+      "id": "way/263088616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/745882479",
+        "animal": "school",
+        "landuse": "meadow",
+        "leisure": "dog_park",
+        "name": "Österreichischer Retriever Club",
+        "school_type": "dog"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.066295,
+              47.8243084
+            ],
+            [
+              13.0654746,
+              47.8249855
+            ],
+            [
+              13.0652261,
+              47.8248623
+            ],
+            [
+              13.0655336,
+              47.8245641
+            ],
+            [
+              13.065596,
+              47.8245911
+            ],
+            [
+              13.0660415,
+              47.8241758
+            ],
+            [
+              13.066295,
+              47.8243084
+            ]
+          ]
+        ]
+      },
+      "id": "way/745882479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882874158",
+        "leisure": "dog_park",
+        "name": "know wau"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0648538,
+              47.8289035
+            ],
+            [
+              13.0648081,
+              47.8288148
+            ],
+            [
+              13.0649158,
+              47.8284702
+            ],
+            [
+              13.0654751,
+              47.8286068
+            ],
+            [
+              13.0652039,
+              47.8290157
+            ],
+            [
+              13.0648538,
+              47.8289035
+            ]
+          ]
+        ]
+      },
+      "id": "way/882874158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1007127551",
+        "leisure": "dog_park",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2474079,
+              47.790559
+            ],
+            [
+              13.2476841,
+              47.7906168
+            ],
+            [
+              13.2483059,
+              47.7907432
+            ],
+            [
+              13.2483554,
+              47.7908019
+            ],
+            [
+              13.2483002,
+              47.7909706
+            ],
+            [
+              13.2474044,
+              47.7908019
+            ],
+            [
+              13.2474079,
+              47.790559
+            ]
+          ]
+        ]
+      },
+      "id": "way/1007127551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312719048",
+        "landuse": "grass",
+        "leisure": "dog_park"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0033669,
+              47.8803802
+            ],
+            [
+              13.0029863,
+              47.881155
+            ],
+            [
+              13.0021802,
+              47.8810077
+            ],
+            [
+              13.0024248,
+              47.880343
+            ],
+            [
+              13.0033669,
+              47.8803802
+            ]
+          ]
+        ]
+      },
+      "id": "way/312719048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407748902",
+        "leisure": "dog_park",
+        "name": "Hundeabrichtplatz"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.9695407,
+              47.9274761
+            ],
+            [
+              12.9700308,
+              47.9262606
+            ],
+            [
+              12.9700617,
+              47.9262431
+            ],
+            [
+              12.9701334,
+              47.9262377
+            ],
+            [
+              12.9701871,
+              47.9262649
+            ],
+            [
+              12.9702654,
+              47.9262995
+            ],
+            [
+              12.9706906,
+              47.9276717
+            ],
+            [
+              12.9695407,
+              47.9274761
+            ]
+          ]
+        ]
+      },
+      "id": "way/407748902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088617",
+        "access": "yes",
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "leisure": "dog_park",
+        "name": "Hundefreilauffläche Salzachsee",
+        "operator": "Stadt Salzburg",
+        "operator:type": "government",
+        "surface": "grass",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.013386,
+              47.8395577
+            ],
+            [
+              13.0143512,
+              47.839936
+            ],
+            [
+              13.014146,
+              47.8402968
+            ],
+            [
+              13.0130999,
+              47.8399554
+            ],
+            [
+              13.0133157,
+              47.8396554
+            ],
+            [
+              13.0133339,
+              47.8396297
+            ],
+            [
+              13.013386,
+              47.8395577
+            ]
+          ]
+        ]
+      },
+      "id": "way/263088617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190111416",
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "height": "1.5",
+        "leisure": "dog_park",
+        "name": "Hundewiese Seekirchen",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1337151,
+              47.9078345
+            ],
+            [
+              13.1320167,
+              47.9062811
+            ],
+            [
+              13.13245,
+              47.9060448
+            ],
+            [
+              13.1329099,
+              47.9057689
+            ],
+            [
+              13.1334886,
+              47.9053916
+            ],
+            [
+              13.1335864,
+              47.9054683
+            ],
+            [
+              13.1339754,
+              47.9051112
+            ],
+            [
+              13.1340248,
+              47.9050659
+            ],
+            [
+              13.1344077,
+              47.9052546
+            ],
+            [
+              13.1344754,
+              47.905288
+            ],
+            [
+              13.1344269,
+              47.9054172
+            ],
+            [
+              13.1347327,
+              47.9056285
+            ],
+            [
+              13.1350444,
+              47.9064741
+            ],
+            [
+              13.1349811,
+              47.9067197
+            ],
+            [
+              13.1337151,
+              47.9078345
+            ]
+          ]
+        ]
+      },
+      "id": "way/190111416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/675690799",
+        "leisure": "dog_park",
+        "name": "Hundewiese Henndorf",
+        "operator": "Gut Aiderbichl"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.1783753,
+              47.8975251
+            ],
+            [
+              13.1778339,
+              47.897513
+            ],
+            [
+              13.1775397,
+              47.8975065
+            ],
+            [
+              13.1775342,
+              47.8975381
+            ],
+            [
+              13.1774453,
+              47.8975353
+            ],
+            [
+              13.1774412,
+              47.8975595
+            ],
+            [
+              13.1771337,
+              47.8975407
+            ],
+            [
+              13.1769781,
+              47.8966508
+            ],
+            [
+              13.1780935,
+              47.8967359
+            ],
+            [
+              13.1782101,
+              47.8973017
+            ],
+            [
+              13.1782656,
+              47.8973911
+            ],
+            [
+              13.1783489,
+              47.8974655
+            ],
+            [
+              13.1783878,
+              47.8974971
+            ],
+            [
+              13.1783753,
+              47.8975251
+            ]
+          ]
+        ]
+      },
+      "id": "way/675690799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530954107",
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "height": "1.5",
+        "leisure": "dog_park",
+        "name": "Obertrumer Hundewiese",
+        "website": "https://www.obertrumer-hundewiese.at/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.0750747,
+              47.9394245
+            ],
+            [
+              13.075821,
+              47.9394338
+            ],
+            [
+              13.0760231,
+              47.9394422
+            ],
+            [
+              13.0760401,
+              47.9396497
+            ],
+            [
+              13.0760447,
+              47.9397061
+            ],
+            [
+              13.076177,
+              47.9397392
+            ],
+            [
+              13.0759962,
+              47.9401105
+            ],
+            [
+              13.0761103,
+              47.940716
+            ],
+            [
+              13.0757584,
+              47.9406972
+            ],
+            [
+              13.074852,
+              47.9406171
+            ],
+            [
+              13.0750747,
+              47.9394245
+            ]
+          ]
+        ]
+      },
+      "id": "way/530954107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/529628759",
+        "access": "permit",
+        "leisure": "dog_park",
+        "name": "Hundewiese"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.2141079,
+              47.9441731
+            ],
+            [
+              13.2130444,
+              47.9439961
+            ],
+            [
+              13.2131115,
+              47.9435137
+            ],
+            [
+              13.2133207,
+              47.9433843
+            ],
+            [
+              13.2141299,
+              47.943259
+            ],
+            [
+              13.2142487,
+              47.9432406
+            ],
+            [
+              13.2141079,
+              47.9441731
+            ]
+          ]
+        ]
+      },
+      "id": "way/529628759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192108142",
+        "barrier": "fence",
+        "leisure": "dog_park",
+        "opening_hours": "24/7",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.5215896,
+              47.4371586
+            ],
+            [
+              13.5214919,
+              47.437154
+            ],
+            [
+              13.5214974,
+              47.4371005
+            ],
+            [
+              13.5215778,
+              47.4369772
+            ],
+            [
+              13.5216159,
+              47.4369186
+            ],
+            [
+              13.5216484,
+              47.4368679
+            ],
+            [
+              13.5216488,
+              47.4368001
+            ],
+            [
+              13.5216234,
+              47.4367663
+            ],
+            [
+              13.5216292,
+              47.4367258
+            ],
+            [
+              13.5217472,
+              47.4367335
+            ],
+            [
+              13.5216851,
+              47.4371649
+            ],
+            [
+              13.5215896,
+              47.4371586
+            ]
+          ]
+        ]
+      },
+      "id": "way/1192108142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30512249",
+        "animal": "school",
+        "leisure": "dog_park",
+        "name": "Hundeabrichteplatz",
+        "school_type": "dog",
+        "source": "plan.at 2009",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.994931,
+          47.8029561
+        ]
+      },
+      "id": "way/30512249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104977537",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0206144,
+          47.8027965
+        ]
+      },
+      "id": "way/104977537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/159975241",
+        "dog": "designated",
+        "leisure": "dog_park",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0430097,
+          47.822315
+        ]
+      },
+      "id": "way/159975241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164700330",
+        "landuse": "grass",
+        "layer": "2",
+        "leisure": "dog_park",
+        "name": "Hundeabrichteplatz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0964354,
+          47.7104339
+        ]
+      },
+      "id": "way/164700330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/190111416",
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "height": "1.5",
+        "leisure": "dog_park",
+        "name": "Hundewiese Seekirchen",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1335305,
+          47.9064502
+        ]
+      },
+      "id": "way/190111416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252356702",
+        "barrier": "fence",
+        "dog": "designated",
+        "fence_type": "chain_link",
+        "height": "1.5",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0675759,
+          47.7627967
+        ]
+      },
+      "id": "way/252356702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088614",
+        "area": "yes",
+        "barrier": "fence",
+        "dog": "designated",
+        "fence_type": "wire",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0448247,
+          47.7886
+        ]
+      },
+      "id": "way/263088614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088615",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Stadt Salzburg",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0620384,
+          47.7966324
+        ]
+      },
+      "id": "way/263088615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088616",
+        "dog": "designated",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "name": "Hunde-Freilaufzone",
+        "operator": "Gut Aiderbichl",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0907262,
+          47.7852815
+        ]
+      },
+      "id": "way/263088616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263088617",
+        "access": "yes",
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "leisure": "dog_park",
+        "name": "Hundefreilauffläche Salzachsee",
+        "operator": "Stadt Salzburg",
+        "operator:type": "government",
+        "surface": "grass",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0137256,
+          47.8399273
+        ]
+      },
+      "id": "way/263088617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/312719048",
+        "landuse": "grass",
+        "leisure": "dog_park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0027736,
+          47.880749
+        ]
+      },
+      "id": "way/312719048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407748902",
+        "leisure": "dog_park",
+        "name": "Hundeabrichtplatz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9701157,
+          47.9269547
+        ]
+      },
+      "id": "way/407748902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/407748948",
+        "contact:website": "https://www.ahv-hundeschule.at/",
+        "leisure": "dog_park",
+        "name": "Allgemeiner Hundeverein Hohenwerfen",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.178888,
+          47.4928301
+        ]
+      },
+      "id": "way/407748948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457722545",
+        "amenity": "veterinary",
+        "name": "Kleintierpraxis in der Josefiau",
+        "opening_hours": "Mo,Tu,Th 09:00-11:00,16:00-19:00; We 09:00-11:00; Fr 08:00-11:00,14:00-16:00; Sa 09:00-11:00",
+        "operator": "Dr. Gudrun Immler; Dr. Martin Heil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0683984,
+          47.7872591
+        ]
+      },
+      "id": "node/457722545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/461162192",
+        "leisure": "dog_park",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0819968,
+          47.6967509
+        ]
+      },
+      "id": "way/461162192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/471235059",
+        "brand": "Fressnapf",
+        "brand:wikidata": "Q875796",
+        "check_date": "2023-08-22",
+        "name": "Fressnapf",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0683872,
+          47.7796203
+        ]
+      },
+      "id": "node/471235059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/479151307",
+        "name": "Perro",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-12:00",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0758951,
+          47.7713294
+        ]
+      },
+      "id": "node/479151307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/529628759",
+        "access": "permit",
+        "leisure": "dog_park",
+        "name": "Hundewiese",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2136465,
+          47.9437068
+        ]
+      },
+      "id": "way/529628759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530954107",
+        "barrier": "fence",
+        "fence_type": "chain_link",
+        "height": "1.5",
+        "leisure": "dog_park",
+        "name": "Obertrumer Hundewiese",
+        "website": "https://www.obertrumer-hundewiese.at/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0755145,
+          47.9400703
+        ]
+      },
+      "id": "way/530954107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/547140847",
+        "barrier": "fence",
+        "leisure": "dog_park",
+        "lit": "no",
+        "source": "Geoimage Orthophoto Metadaten Stand 2019",
+        "surface": "grass",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0311227,
+          47.8097773
+        ]
+      },
+      "id": "way/547140847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/619468929",
+        "leisure": "dog_park",
+        "name": "Hundeabrichtplatz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2139679,
+          47.4429761
+        ]
+      },
+      "id": "way/619468929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/675690799",
+        "leisure": "dog_park",
+        "name": "Hundewiese Henndorf",
+        "operator": "Gut Aiderbichl",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1776829,
+          47.8971052
+        ]
+      },
+      "id": "way/675690799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/689239369",
+        "brand": "Fressnapf",
+        "brand:wikidata": "Q875796",
+        "brand:wikipedia": "en:Fressnapf",
+        "check_date": "2023-08-22",
+        "contact:phone": "+43 662 873007",
+        "name": "Fressnapf",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0598576,
+          47.8082062
+        ]
+      },
+      "id": "node/689239369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/718117570",
+        "leisure": "dog_park",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1056861,
+          47.6992101
+        ]
+      },
+      "id": "way/718117570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/745882479",
+        "animal": "school",
+        "landuse": "meadow",
+        "leisure": "dog_park",
+        "name": "Österreichischer Retriever Club",
+        "school_type": "dog",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0657606,
+          47.8245807
+        ]
+      },
+      "id": "way/745882479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/829837566",
+        "amenity": "veterinary",
+        "name": "Wimmer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1249193,
+          47.9725896
+        ]
+      },
+      "id": "node/829837566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882874158",
+        "leisure": "dog_park",
+        "name": "know wau",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0651416,
+          47.828743
+        ]
+      },
+      "id": "way/882874158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/967331973",
+        "amenity": "veterinary",
+        "name": "Dr.Eipeltauer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0765597,
+          47.8248509
+        ]
+      },
+      "id": "node/967331973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/985961177",
+        "barrier": "fence",
+        "leisure": "dog_park",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0842125,
+          47.7109144
+        ]
+      },
+      "id": "way/985961177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1007127551",
+        "leisure": "dog_park",
+        "surface": "grass",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2478799,
+          47.7907648
+        ]
+      },
+      "id": "way/1007127551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1192108142",
+        "barrier": "fence",
+        "leisure": "dog_park",
+        "opening_hours": "24/7",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5216196,
+          47.4369454
+        ]
+      },
+      "id": "way/1192108142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1295492840",
+        "addr:housenumber": "63",
+        "addr:street": "Schießstattstraße",
+        "contact:email": "hund@fressbar.net",
+        "name": "fressbar - Fleisch Kauen Leckerlies",
+        "opening_hours": "Tu 11:00-19:00; Th 11:00-19:00",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+43664 4119442",
+        "shop": "pet",
+        "website": "https://fressbar.net/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0310116,
+          47.8188768
+        ]
+      },
+      "id": "node/1295492840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1721066867",
+        "addr:housenumber": "109",
+        "addr:street": "Rottweg",
+        "amenity": "veterinary",
+        "name": "Tieraztpraxis Annemarie Salzlechner",
+        "website": "http://www.alaskan-malamute.or.at/tierarzt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9975483,
+          47.8288705
+        ]
+      },
+      "id": "node/1721066867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1748387934",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "77",
+        "addr:postcode": "5020",
+        "addr:street": "Moosstraße",
+        "amenity": "veterinary",
+        "name": "Tierarzt f. Chiropraktik & Physiotherapie",
+        "opening_hours": "Mo-Fr 09:00-20:00",
+        "operator": "Mag. Karin Marinkovits",
+        "website": "http://www.vet-alternativ.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0226818,
+          47.7752438
+        ]
+      },
+      "id": "node/1748387934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1748623908",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "121",
+        "addr:postcode": "5020",
+        "addr:street": "Lerchenstraße",
+        "amenity": "veterinary",
+        "name": "Kleintierpraxis in Gnigl Dr. Waltraud Eipeldauer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0768313,
+          47.8249141
+        ]
+      },
+      "id": "node/1748623908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763161765",
+        "barrier": "lift_gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0961044,
+          47.7102448
+        ]
+      },
+      "id": "node/1763161765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2096312872",
+        "addr:housenumber": "23f",
+        "addr:street": "Bahnhofstraße",
+        "amenity": "veterinary",
+        "name": "Bahr Barbara Dr.",
+        "phone": "+43 6212 20074",
+        "website": "https://www.tierarzt-bahr.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1266378,
+          47.8972157
+        ]
+      },
+      "id": "node/2096312872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358450157",
+        "amenity": "veterinary",
+        "name": "Tierarzt Dr. Sorgo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2145043,
+          47.4225742
+        ]
+      },
+      "id": "node/2358450157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358456142",
+        "addr:city": "Werfen",
+        "addr:housenumber": "52",
+        "addr:postcode": "5450",
+        "addr:street": "Reitsam",
+        "amenity": "veterinary",
+        "name": "Tierarzt Dr. Fidler",
+        "website": "https://www.tieraerztin-fidler.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1978064,
+          47.4616242
+        ]
+      },
+      "id": "node/2358456142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2396704511",
+        "addr:city": "Wals-Siezenheim",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "5071",
+        "addr:street": "Josef-Lindner-Straße",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Fressnapf",
+        "brand:wikidata": "Q875796",
+        "brand:wikipedia": "en:Fressnapf",
+        "check_date": "2023-08-21",
+        "name": "Fressnapf",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9856602,
+          47.7930852
+        ]
+      },
+      "id": "node/2396704511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2425279406",
+        "amenity": "veterinary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.750973,
+          47.5229207
+        ]
+      },
+      "id": "node/2425279406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2495032982",
+        "barrier": "fence",
+        "leisure": "dog_park",
+        "name": "Hundetrainings Platz Grimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9902059,
+          47.2266946
+        ]
+      },
+      "id": "node/2495032982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2584096620",
+        "barrier": "gate",
+        "bicycle": "yes",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0677433,
+          47.7625713
+        ]
+      },
+      "id": "node/2584096620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2584096626",
+        "barrier": "gate",
+        "bicycle": "no",
+        "foot": "yes",
+        "locked": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0208166,
+          47.8029648
+        ]
+      },
+      "id": "node/2584096626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2619415734",
+        "addr:city": "Thalgau",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "5303",
+        "addr:street": "Leithenweg",
+        "amenity": "veterinary",
+        "email": "tierarzt.prettschuh@sbg.at",
+        "name": "Dr. Christoph Prettschuh",
+        "phone": "06235/20571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2582774,
+          47.8344697
+        ]
+      },
+      "id": "node/2619415734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687115440",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.044714,
+          47.7881738
+        ]
+      },
+      "id": "node/2687115440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2687115451",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0621329,
+          47.7963344
+        ]
+      },
+      "id": "node/2687115451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3057628931",
+        "addr:city": "Sankt Michael im Lungau",
+        "addr:housenumber": "492",
+        "addr:place": "Stranach",
+        "amenity": "veterinary",
+        "name": "Josef Dorfer",
+        "phone": "+43 6477 7637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6399477,
+          47.0902649
+        ]
+      },
+      "id": "node/3057628931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3359048095",
+        "amenity": "veterinary",
+        "email": "office@polivet.at",
+        "fax": "+43 6219 6315-4",
+        "name": "Polivet Tierärzteteam",
+        "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:00",
+        "phone": "+43 6219 6315",
+        "website": "https://www.polivet.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0800272,
+          47.9363258
+        ]
+      },
+      "id": "node/3359048095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3770730404",
+        "addr:city": "Lamprechtshausen",
+        "addr:housenumber": "8",
+        "addr:postcode": "5112",
+        "addr:street": "Käsereistraße",
+        "amenity": "veterinary",
+        "name": "Dres. Schernthaner",
+        "phone": "+43 6274 4400",
+        "website": "https://petvetcare.info/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9668635,
+          47.99005
+        ]
+      },
+      "id": "node/3770730404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3866977535",
+        "amenity": "veterinary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1142942,
+          47.1602168
+        ]
+      },
+      "id": "node/3866977535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3979178533",
+        "access": "customers",
+        "barrier": "gate",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1339754,
+          47.9051112
+        ]
+      },
+      "id": "node/3979178533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4006046701",
+        "barrier": "entrance",
+        "bicycle": "no",
+        "foot": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0133339,
+          47.8396297
+        ]
+      },
+      "id": "node/4006046701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4185542962",
+        "amenity": "veterinary",
+        "name": "Dr.Heide-Maria Müller"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0346446,
+          47.7969399
+        ]
+      },
+      "id": "node/4185542962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4200188098",
+        "amenity": "veterinary",
+        "name": "Dr. Doris Buchner",
+        "phone": "+43 664 4566827"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9720817,
+          47.9626254
+        ]
+      },
+      "id": "node/4200188098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11530342744",
+        "amenity": "veterinary",
+        "name": "Tierarztpraxis Herr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3386968,
+          47.2664442
+        ]
+      },
+      "id": "node/11530342744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12927862200",
+        "amenity": "veterinary",
+        "contact:mobile": "+43 664 2420 404",
+        "name": "Ernst Ortner",
+        "website": "https://tierarztortner-uttendorf.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5665058,
+          47.2875061
+        ]
+      },
+      "id": "node/12927862200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12628803766",
+        "amenity": "dog_toilet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.737032,
+          47.3663705
+        ]
+      },
+      "id": "node/12628803766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11527634722",
+        "leisure": "dog_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8140697,
+          47.3053209
+        ]
+      },
+      "id": "node/11527634722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12495647766",
+        "amenity": "drinking_water",
+        "description": "In einen Baumstamm",
+        "dog": "designated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0062984,
+          47.4100647
+        ]
+      },
+      "id": "node/12495647766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325244700",
+        "addr:city": "Schwarzach im Pongau",
+        "addr:country": "AT",
+        "addr:housenumber": "26",
+        "addr:postcode": "5620",
+        "addr:street": "Kraftwerkstraße",
+        "amenity": "veterinary",
+        "contact:fax": "+43 6415 4365 24",
+        "contact:phone": "+43 6415 4365",
+        "name": "Dr. Gerstner Tierarzt",
+        "opening_hours": "Mo,Tu,Fr 15:00-17:00; We,Th 11:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1469867,
+          47.3184022
+        ]
+      },
+      "id": "node/4325244700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6133647190",
+        "name": "Zoowelt",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2007117,
+          47.346108
+        ]
+      },
+      "id": "node/6133647190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6133628206",
+        "addr:city": "Sankt Johann im Pongau",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:postcode": "5600",
+        "addr:street": "Ing.-Ludwig-Pech-Straße",
+        "amenity": "veterinary",
+        "name": "Dr. Perterer Kleintierordination",
+        "opening_hours": "Mo 09:00-11:00,14:00-16:00, Tu 14:00-16:00, We 17:00-19:00, Th 09:00-11:00,17:00-19:00, Fr 14:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1999448,
+          47.349784
+        ]
+      },
+      "id": "node/6133628206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10253674636",
+        "brand": "Fressnapf",
+        "brand:wikidata": "Q875796",
+        "name": "Fressnapf",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-17:30",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2161663,
+          47.4112567
+        ]
+      },
+      "id": "node/10253674636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12192712340",
+        "addr:city": "Saalfelden am Steinernen Meer",
+        "addr:housenumber": "10",
+        "addr:postcode": "5760",
+        "addr:street": "Leogangerstraße",
+        "amenity": "veterinary",
+        "name": "Dr. Herbert Neumayr",
+        "phone": "+43 664/243 66 21",
+        "website": "https://tierarzt-neumayr.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8449132,
+          47.4279998
+        ]
+      },
+      "id": "node/12192712340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635835360",
+        "addr:city": "Wals-Siezenheim",
+        "addr:housenumber": "37",
+        "addr:postcode": "5071",
+        "addr:street": "Bundesstraße",
+        "description": "Fachhandel für Hundezubehör",
+        "email": "salzburg@dogstyler.at",
+        "name": "Dogstyler® Store",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-14:00",
+        "operator": "Dogstyler®",
+        "phone": "+43 662 23 00 07",
+        "shop": "pet",
+        "website": "https://dogstyler.de/dogstyler-salzburg-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9769104,
+          47.7860311
+        ]
+      },
+      "id": "node/7635835360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8136941094",
+        "addr:city": "Wals-Siezenheim",
+        "addr:country": "AT",
+        "addr:housenumber": "2b",
+        "addr:postcode": "5071",
+        "addr:street": "Josef-Lindner-Straße",
+        "at_bev:addr_date": "2017-10-01",
+        "brand": "Das Futterhaus",
+        "brand:wikidata": "Q1167914",
+        "check_date:opening_hours": "2022-01-06",
+        "contact:phone": "+43 662 85109111",
+        "level": "0",
+        "name": "Das Futterhaus",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00",
+        "shop": "pet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9861081,
+          47.7940615
+        ]
+      },
+      "id": "node/8136941094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12124908403",
+        "amenity": "veterinary",
+        "contact:phone": "+43 664 4672032",
+        "contact:website": "http://www.vieh.net",
+        "name": "Tierärzte Göllner & Erkinger",
+        "official_name": "Tierärztegemeinschaft Kathrin Göllner & Hannes Erkinger OG",
+        "opening_hours": "\"nach Vereinbarung\"",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.168222,
+          47.5993797
+        ]
+      },
+      "id": "node/12124908403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9114439599",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.084621,
+          47.7111321
+        ]
+      },
+      "id": "node/9114439599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6564359969",
+        "leisure": "dog_park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1237993,
+          47.6780685
+        ]
+      },
+      "id": "node/6564359969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5583648147",
+        "addr:city": "Adnet",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:place": "Riedl",
+        "addr:postcode": "5421",
+        "amenity": "veterinary",
+        "at_bev:addr_date": "2017-10-01",
+        "name": "Wintersteller Edwin Dr. FTA / Kleintiere",
+        "phone": "06245 87098"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1233984,
+          47.6873801
+        ]
+      },
+      "id": "node/5583648147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12059335952",
+        "amenity": "veterinary",
+        "emergency": "yes",
+        "name": "VetZentrum Anif",
+        "opening_hours": "Mo-Fr 08:00-19:00, Sa 09:00-12:00 || Mo-Fr 19:00-22:00 open \"Notfall-Ambulanz\"; Sa 17:00-18:00 open \"Notfall-Ambulanz\"; PH,Su 10:00-11:00, 17:00-18:00 open \"Notfall-Ambulanz\"",
+        "website": "https://www.vetzentrum-anif.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0620472,
+          47.7501241
+        ]
+      },
+      "id": "node/12059335952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10094877381",
+        "amenity": "veterinary",
+        "name": "ORTODOC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0167638,
+          47.7866031
+        ]
+      },
+      "id": "node/10094877381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967296954",
+        "barrier": "gate",
+        "bicycle": "no",
+        "foot": "yes",
+        "locked": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0204316,
+          47.8026438
+        ]
+      },
+      "id": "node/9967296954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5319202770",
+        "addr:city": "Salzburg",
+        "addr:housenumber": "11",
+        "addr:postcode": "5020",
+        "addr:street": "Ganshofstraße",
+        "amenity": "veterinary",
+        "name": "Tierarzt Wuppinger Emanuel",
+        "opening_hours": "Mo-Fr 10:00-12:00, Mo,Tu,Th,Fr 17:00-19:00",
+        "phone": "+43 662 427697",
+        "url": "https://www.herold.at/gelbe-seiten/salzburg/CGZZg/wuppinger-emanuel-dr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0243217,
+          47.8013899
+        ]
+      },
+      "id": "node/5319202770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8850081470",
+        "addr:city": "Salzburg",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "5026",
+        "addr:street": "Guggenbichlerstraße",
+        "amenity": "veterinary",
+        "at_bev:addr_date": "2024-04-01",
+        "email": "kontakt@kleintierpraxis-salzburg.at",
+        "mobile": "+43 660 6824230",
+        "name": "Kleintierpraxis Kerstin Pabst",
+        "opening_hours": "Mo,Tu,Fr 08:00-12:00,16:00-19:00; We,Th 08:00-12:00 \"telefonisch\"; Sa, Su 08:00-10:00 \"telefonisch\", Sa,Su 10:00-14:00",
+        "phone": "+43 662 243175",
+        "website": "https://www.kleintierpraxis-salzburg.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0758679,
+          47.7886274
+        ]
+      },
+      "id": "node/8850081470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8892327225",
+        "amenity": "veterinary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.214521,
+          47.8193174
+        ]
+      },
+      "id": "node/8892327225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6283248056",
+        "amenity": "veterinary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0427155,
+          47.8406821
+        ]
+      },
+      "id": "node/6283248056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4398464230",
+        "amenity": "veterinary",
+        "name": "Maria Gmachl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0653792,
+          47.8670027
+        ]
+      },
+      "id": "node/4398464230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5100253976",
+        "amenity": "veterinary",
+        "name": "Gruber"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2100564,
+          47.8430861
+        ]
+      },
+      "id": "node/5100253976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6327766984",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1778339,
+          47.897513
+        ]
+      },
+      "id": "node/6327766984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4977624139",
+        "addr:city": "Thalgau",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "5303",
+        "addr:street": "Franz Schoosleitner-Straße",
+        "amenity": "veterinary",
+        "name": "Kleintierpraxis Sabine Lukas",
+        "opening_hours": "Mo,We,Fr 10:00-12:00; Tu, Th 17:00-19:00",
+        "operator": "Lukas Sabine Dipl-TA",
+        "phone": "+43-664-1316911",
+        "website": "http://www.tierarzt-lukas.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2533271,
+          47.8422225
+        ]
+      },
+      "id": "node/4977624139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5189483760",
+        "amenity": "veterinary",
+        "name": "Dr. Heidi Rauter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7454253,
+          47.1497316
+        ]
+      },
+      "id": "node/5189483760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11067107937",
+        "barrier": "gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5215896,
+          47.4371586
+        ]
+      },
+      "id": "node/11067107937"
+    }
+  ]
+}
